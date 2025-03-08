@@ -39,10 +39,6 @@ bash:
 *pip install opencv-python numpy*
 
 
-***How to Use***
-
-
-
 
 **Learn from the PDF:**
 To understand the theory behind image thresholding, refer to the Thresholding Techniques PDF included in the repository.
