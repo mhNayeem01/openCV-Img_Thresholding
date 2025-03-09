@@ -41,7 +41,7 @@ bash:
 
 
 **Learn from the PDF:**
-To understand the theory behind image thresholding, refer to the Thresholding Techniques PDF included in the repository.
+To understand the theory behind image thresholding, refer to the 3 given Thresholding Techniques PDF included in the repository.
 
 
 **Code Overview**
